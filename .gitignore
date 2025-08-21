@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Static libaries
+*.a
+
+# Executables
+.out
+
+# Backup files
+*~
+*.swp
+
+# IDE / editor files
+.vscode/
